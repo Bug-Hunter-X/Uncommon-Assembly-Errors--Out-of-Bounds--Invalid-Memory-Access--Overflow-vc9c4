@@ -1,0 +1,1 @@
+This repository demonstrates some uncommon errors in assembly programming, focusing on situations that might not be immediately apparent to beginners or those more familiar with higher-level languages.  The errors covered include potential array out-of-bounds access, attempts to access invalid memory locations, and integer overflow conditions.
